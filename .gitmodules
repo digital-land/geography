@@ -1,0 +1,3 @@
+[submodule "makerules"]
+	path = makerules
+	url = https://github.com/digital-land/makerules
